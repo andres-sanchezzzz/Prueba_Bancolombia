@@ -1,0 +1,21 @@
+{
+  "description": "Huellas de los archivos originales leidos el 15 de septiembre de 2026. No incluyen archivos temporales de Office.",
+  "algorithm": "SHA256",
+  "files": [
+    {
+      "path": "Informacion_Cliente_PTecnica.xlsx",
+      "bytes": 26192,
+      "sha256": "641b480a8ca62a49974a8892e6a3a49580ddedec75b22820d3ae347d72251367"
+    },
+    {
+      "path": "Informacion_Radicado_PTecnica.xlsx",
+      "bytes": 199952,
+      "sha256": "801d2b1bbabeac21dcadec6283b08fd8fc203d44a577f304acc3f77b36f6f4c0"
+    },
+    {
+      "path": "Prueba Técnica IEO.docx",
+      "bytes": 19248,
+      "sha256": "7bc02b883b5c466c002d874e974b48f6e16eda902f78c35aea40a01891017d41"
+    }
+  ]
+}
